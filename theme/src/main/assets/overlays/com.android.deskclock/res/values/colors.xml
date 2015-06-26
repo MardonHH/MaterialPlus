@@ -30,7 +30,10 @@
     <!-- Statusbar -->
     <color name="status_bar">#20000000</color>
 
+    <!-- Button, on Switches and Clock selected -->
     <color name="hot_pink">#ff009688</color>
+	
+	<color name="time_picker_gray">#ff1a237e</color>
 	
     <color name="hairline">#70ffffff</color>
 	
