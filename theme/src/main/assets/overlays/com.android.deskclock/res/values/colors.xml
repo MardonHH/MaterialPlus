@@ -2,34 +2,36 @@
 <resources>
 
     <!-- Background Colors -->
-    <color name="hour_00">#ff303f9f</color>
-    <color name="hour_01">#ff303f9f</color>
-    <color name="hour_02">#ff283593</color>
-    <color name="hour_03">#ff283593</color>
+    <color name="hour_00">#ff1a237e</color>
+    <color name="hour_01">#ff1a237e</color>
+    <color name="hour_02">#ff1a237e</color>
+    <color name="hour_03">#ff1a237e</color>
     <color name="hour_04">#ff1a237e</color>
     <color name="hour_05">#ff1a237e</color>
-    <color name="hour_06">#ff0d47a1</color>
-    <color name="hour_07">#ff0d47a1</color>
-    <color name="hour_08">#ff1565c0</color>
-    <color name="hour_09">#ff1565c0</color>
-    <color name="hour_10">#ff1976d2</color>
-    <color name="hour_11">#ff1976d2</color>
-    <color name="hour_12">#ff1e88e5</color>
-    <color name="hour_13">#ff1e88e5</color>
-    <color name="hour_14">#ff2196f3</color>
-    <color name="hour_15">#ff2196f3</color>
-    <color name="hour_16">#ff42a5f5</color>
-    <color name="hour_17">#ff42a5f5</color>
-    <color name="hour_18">#ff3f51b5</color>
-    <color name="hour_19">#ff3f51b5</color>
-    <color name="hour_20">#ff3949ab</color>
-    <color name="hour_21">#ff3949ab</color>
-    <color name="hour_22">#ff303f9f</color>
-    <color name="hour_23">#ff303f9f</color>
+    <color name="hour_06">#ff1a237e</color>
+    <color name="hour_07">#ff1a237e</color>
+    <color name="hour_08">#ff1a237e</color>
+    <color name="hour_09">#ff1a237e</color>
+    <color name="hour_10">#ff1a237e</color>
+    <color name="hour_11">#ff1a237e</color>
+    <color name="hour_12">#ff1a237e</color>
+    <color name="hour_13">#ff1a237e</color>
+    <color name="hour_14">#ff1a237e</color>
+    <color name="hour_15">#ff1a237e</color>
+    <color name="hour_16">#ff1a237e</color>
+    <color name="hour_17">#ff1a237e</color>
+    <color name="hour_18">#ff1a237e</color>
+    <color name="hour_19">#ff1a237e</color>
+    <color name="hour_20">#ff1a237e</color>
+    <color name="hour_21">#ff1a237e</color>
+    <color name="hour_22">#ff1a237e</color>
+    <color name="hour_23">#ff1a237e</color>
 	
     <!-- Statusbar -->
     <color name="status_bar">#20000000</color>
 
-    <color name="hot_pink">#ff004d40</color>
+    <color name="hot_pink">#ff009688</color>
+	
+    <color name="hairline">#70ffffff</color>
 	
 </resources>
