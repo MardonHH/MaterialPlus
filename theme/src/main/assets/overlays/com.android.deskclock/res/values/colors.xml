@@ -33,8 +33,15 @@
     <!-- Button, on Switches and Clock selected -->
     <color name="hot_pink">#ff009688</color>
 	
-	<color name="time_picker_gray">#ff1a237e</color>
+    <color name="time_picker_gray">#ff1a237e</color>
+	
+    <color name="default_background">#ff1a237e</color>
 	
     <color name="hairline">#70ffffff</color>
+    <color name="line_dark">#ff9e9e9e</color>
+	
+    <color name="red">#fff44336</color>
+	
+    <color name="calendar_selected_date_text">#ffe0e0e0</color>
 	
 </resources>
