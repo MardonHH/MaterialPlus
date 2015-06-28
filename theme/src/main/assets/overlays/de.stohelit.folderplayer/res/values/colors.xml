@@ -31,4 +31,5 @@
     <color name="area_back_square">#66000000</color>
     <color name="transparent">#00000000</color>
     <color name="notifBack">#ff111111</color>
+	<color name="holo_blue_light">#ffe0e0e0</color>
 </resources>
