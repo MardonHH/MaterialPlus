@@ -3,4 +3,8 @@
     <style name="separatorLineHolo">
         <item name="android:background">@color/holo_blue_light</item>
     </style>
+    <style name="separatorLineInvisible">
+        <item name="android:background">@color/holo_blue_light</item>
+        <item name="android:visibility">gone</item>
+    </style>
 </resources>
