@@ -2,6 +2,7 @@
 <resources>
 
     <dimen name="basecard_radius">20.0dip</dimen>
-	<dimen name="cardview_default_radius">20.0dip</dimen>
+    <dimen name="cardview_default_radius">20.0dip</dimen>
+    <dimen name="cardview_default_elevation">4.0dip</dimen>
 
 </resources>
