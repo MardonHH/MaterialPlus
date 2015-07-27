@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="basecard_radius">20.0dip</dimen>
+	<dimen name="cardview_default_radius">20.0dip</dimen>
+
+</resources>
